@@ -1,10 +1,7 @@
 using UnityEngine;
 
-namespace ASP.Scriptables
+namespace ASPax.Utilities
 {
-    /// <summary>
-    /// 
-    /// </summary>
     [CreateAssetMenu(fileName = "Gradient", menuName = "ScriptableObjects/ColorPallete/Gradient", order = 1)]
     public class GradientScriptable : ScriptableObject
     {

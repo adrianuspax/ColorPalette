@@ -1,10 +1,7 @@
 using UnityEngine;
 
-namespace ASP.Scriptables
+namespace ASPax.Utilities
 {
-    /// <summary>
-    /// 
-    /// </summary>
     [CreateAssetMenu(fileName = "ColorPalette", menuName = "ScriptableObjects/ColorPalette/Color", order = 1)]
     public class ColorPaletteScriptable : ScriptableObject
     {
